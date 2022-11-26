@@ -1,1 +1,6 @@
 go 1.19
+
+use (
+	./cmd/get-playlist
+	./api/user-login
+)
