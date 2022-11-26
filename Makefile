@@ -1,4 +1,6 @@
 # note: call scripts from /scripts
+build-all:
+	scripts/build.sh
 build-api:
 	scripts/apibuild.sh
 exec-api:
